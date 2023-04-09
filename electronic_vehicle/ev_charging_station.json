@@ -1,0 +1,129 @@
+[
+  {
+    "id": "1",
+    "name": "Tesla Charging Station 1",
+    "address": "California",
+    "banners": [
+      "https://storage.googleapis.com/boom-ai-images/results/LFmkPQhSqDaXzN3YAt3o/00002.jpg",
+      "https://storage.googleapis.com/boom-ai-images/results/LFmkPQhSqDaXzN3YAt3o/00005.jpg"
+    ],
+    "chargers": [
+      {
+        "id": "1",
+        "type": "CHAdeMO",
+        "power": 40,
+        "price": 2000
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "EV Station 2",
+    "address": "New York",
+    "banners": [
+      "https://storage.googleapis.com/boom-ai-images/results/LFmkPQhSqDaXzN3YAt3o/00001.jpg",
+      "https://storage.googleapis.com/boom-ai-images/results/LFmkPQhSqDaXzN3YAt3o/00006.jpg"
+    ],
+    "chargers": [
+      {
+        "id": "2",
+        "type": "CCS",
+        "power": 50,
+        "price": 2500
+      },
+      {
+        "id": "3",
+        "type": "Tesla Supercharger",
+        "power": 120,
+        "price": 4000
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "EV Station 3",
+    "address": "Texas",
+    "banners": [
+      "https://storage.googleapis.com/boom-ai-images/results/LFmkPQhSqDaXzN3YAt3o/00003.jpg",
+      "https://storage.googleapis.com/boom-ai-images/results/LFmkPQhSqDaXzN3YAt3o/00004.jpg"
+    ],
+    "chargers": [
+      {
+        "id": "4",
+        "type": "CHAdeMO",
+        "power": 50,
+        "price": 3000
+      },
+      {
+        "id": "5",
+        "type": "CCS",
+        "power": 60,
+        "price": 3500
+      },
+      {
+        "id": "6",
+        "type": "Tesla Supercharger",
+        "power": 150,
+        "price": 5000
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "EV Station 4",
+    "address": "Florida",
+    "banners": [
+      "https://storage.googleapis.com/boom-ai-images/results/LFmkPQhSqDaXzN3YAt3o/00007.jpg",
+      "https://storage.googleapis.com/boom-ai-images/results/LFmkPQhSqDaXzN3YAt3o/00008.jpg"
+    ],
+    "chargers": [
+      {
+        "id": "7",
+        "type": "CHAdeMO",
+        "power": 40,
+        "price": 2000
+      },
+      {
+        "id": "8",
+        "type": "CCS",
+        "power": 50,
+        "price": 2500
+      },
+      {
+        "id": "9",
+        "type": "Tesla Supercharger",
+        "power": 120,
+        "price": 4000
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "EV Station 5",
+    "address": "Washington",
+    "banners": [
+      "https://storage.googleapis.com/boom-ai-images/results/MWhp3rtVPo3HHFzIGqUD/00001.jpg",
+      "https://storage.googleapis.com/boom-ai-images/results/MWhp3rtVPo3HHFzIGqUD/00002.jpg"
+    ],
+    "chargers": [
+      {
+        "id": "10",
+        "type": "CHAdeMO",
+        "power": 50,
+        "price": 3000
+      },
+      {
+        "id": "11",
+        "type": "CCS",
+        "power": 60,
+        "price": 3500
+      },
+      {
+        "id": "12",
+        "type": "Tesla Supercharger",
+        "power": 150,
+        "price": 5000
+      }
+    ]
+  }
+]
